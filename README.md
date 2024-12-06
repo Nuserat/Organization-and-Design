@@ -1,1 +1,1 @@
-Computer Organization and Design solutions
+Computer Organization and Design, solutions of Fifth Edition
